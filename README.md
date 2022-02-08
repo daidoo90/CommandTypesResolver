@@ -1,4 +1,4 @@
-Command Types Resolver
+# Command Types Resolver
 
 
 Sample console application for demonstrating different operations over string input based on provided command type.
